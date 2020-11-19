@@ -134,6 +134,7 @@ Gimana nih kalau dapat pembeli ? kalian tinggal bikin akun shopee lagi sebagai a
 toko kalian sendiri dengan alamat si pembeli itu.
 
 Jika sudah, kalian tinggal kirimkan produknya ke pembeli deh ^_^
+Sesuaikan dengan Tipe 1 atau Tipe 2 yang kalian gunakan ya, scroll atas
 ```
 
 ## Selesai
